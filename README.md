@@ -1,5 +1,5 @@
 ![Black Technology LinkedIn Banner](https://github.com/VenkatRaman3103/VenkatRaman3103/assets/145652521/faca14ba-ec17-4187-a994-e9c218ecdc4f)
-
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -43,11 +43,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenkatRaman3103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="220" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VenkatRaman3103&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=VenkatRaman3103&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenkatRaman3103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VenkatRaman3103&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=VenkatRaman3103&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
 </div>
+
+###
 
