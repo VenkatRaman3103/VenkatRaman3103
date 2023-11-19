@@ -51,8 +51,3 @@
   <img src="https://streak-stats.demolab.com?user=VenkatRaman3103&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/VenkatRaman3103/VenkatRaman3103/output/snake.svg" alt="Snake animation" />
-
-###
