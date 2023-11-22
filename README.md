@@ -1,5 +1,5 @@
 ![Black Technology LinkedIn Banner](https://github.com/VenkatRaman3103/VenkatRaman3103/assets/145652521/faca14ba-ec17-4187-a994-e9c218ecdc4f)
-###![2842680](https://github.com/VenkatRaman3103/VenkatRaman3103/assets/145652521/96665f06-6307-4ab2-bd9b-48e0519f404d)
+
 
 
 <h1 align="center"> 🚀 Welcome to the realm of my digital playground! 👨‍💻</h1>
