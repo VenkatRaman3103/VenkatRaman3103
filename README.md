@@ -6,7 +6,7 @@
 
 ###
 
-<h3><img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> HI, I'm Venkat Raman</h3><p>As a web Developer and code craftman, I'm on a relentless quest to turn ideas into interactive and elegant web experiences. 💻✨ My code is not just a collection of ones and zeros; it's the manifestation of my passion for crafting pixel-perfect solutions and my insatiable curiosity for pushing the boundaries of what's possible on the web.</p>
+<h3><<img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> HI, I'm Venkat Raman/></h3><p>As a web Developer and code craftman, I'm on a relentless quest to turn ideas into interactive and elegant web experiences. 💻✨ My code is not just a collection of ones and zeros; it's the manifestation of my passion for crafting pixel-perfect solutions and my insatiable curiosity for pushing the boundaries of what's possible on the web.</p>
 
 ###
 
