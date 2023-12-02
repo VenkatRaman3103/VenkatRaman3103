@@ -56,7 +56,7 @@
 - 🌐 **Building Excellence:** I am dedicated to crafting web applications that are not just functional but also provide a seamless and enjoyable user experience.
 
 ###
-<h2>✨Unveiling the Code Journey:</h2> -->
+<h2>✨Unveiling the Code Journey:</h2> 
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VenkatRaman3103&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -66,5 +66,5 @@
 
 ###
 
-###
+###-->
 
