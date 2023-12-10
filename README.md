@@ -57,11 +57,9 @@
 ###
 <h2>✨Unveiling the Code Journey:</h2> 
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenkatRaman3103&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VenkatRaman3103&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=VenkatRaman3103&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="135" alt="streak graph"  />
-</div>
+ ![VenkatRaman3103's Stats](https://github-readme-stats.vercel.app/api?username=VenkatRaman3103&theme=react&show_icons=true&hide_border=true&count_private=true)
+ ![VenkatRaman3103's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VenkatRaman3103&theme=react&hide_border=true)
+ ![VenkatRaman3103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatRaman3103&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
