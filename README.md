@@ -26,7 +26,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="25" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="25" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
   <img width="12" />
