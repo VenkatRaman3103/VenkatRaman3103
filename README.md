@@ -1,6 +1,6 @@
- <h1 align="center">
+ <!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Venkat+Raman!;" />
-</h1>
+</h1>-->
 
 <!--![Black Technology LinkedIn Banner (1)](https://github.com/VenkatRaman3103/VenkatRaman3103/assets/145652521/239c702c-6758-485f-a340-5deefcb557d0)-->
 <img align="center" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
