@@ -67,6 +67,7 @@
 </div>
 
 ###
+[![VenkatRaman3103's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VenkatRaman3103&bg_color=121112&color=faf9fa&line=3cd369&point=f4ecec&area=true&hide_border=true)](https://github.com/VenkatRaman3103/github-readme-activity-graph)
 
 ###
 
