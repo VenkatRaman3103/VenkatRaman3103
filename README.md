@@ -8,7 +8,7 @@
 
  ![Black Simple Inspirational Quotes New LinkedIn Banner](https://github.com/VenkatRaman3103/VenkatRaman3103/assets/145652521/8ff40056-2175-4e6c-99a9-0d573b71a9bc)
 
- [![ai-article-summarizer](https://github-readme-stats.vercel.app/api/pin/?username=VenkatRaman3103&repo=ai-article-summarizer&theme=github_dark&hide_border=false&show_owner=false)](https://github.com/VenkatRaman3103/ai-article-summarizer)
+ [![ai-article-summarizer](https://github-readme-stats.vercel.app/api/pin/?username=VenkatRaman3103&repo=ai-article-summarizer&theme=github_dark&hide_border=true&show_owner=false)](https://github.com/VenkatRaman3103/ai-article-summarizer)
 
 
  <!--<h1 align="center"> 🚀 Welcome to the realm of my digital playground!!! 👨‍💻</h1>
