@@ -31,10 +31,6 @@
 
 > Software changes. Fundamentals don’t.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/VenkatRaman3103)
-
 ## Technologies
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -58,4 +54,7 @@
 
 <!--   
   [LinkedIn](YOUR_LINK) · [LeetCode](YOUR_LINK) · [GitHub](https://github.com/VenkatRaman3103)
+  ## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/VenkatRaman3103)
   -->
