@@ -1,6 +1,6 @@
 # Hi, I'm Venkat
 
-📍 Chennai, India · 💻 Software Engineer
+📍 Chennai, India  |  💻 Software Engineer
 
 > Building clean systems. Practicing fundamentals.
 
