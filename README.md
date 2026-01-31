@@ -1,10 +1,45 @@
+# Hi, I'm Venkat
 
- ![Black Simple Inspirational Quotes New LinkedIn Banner](https://github.com/VenkatRaman3103/VenkatRaman3103/assets/145652521/8ff40056-2175-4e6c-99a9-0d573b71a9bc)
+Chennai, India | Software Engineer
 
-# Hi, I'm Venkat 👋
+> Building clean systems. Practicing fundamentals.
 
-📍 **Chennai, India** | 💻 **Full-Stack Engineer** | 🧠 **Systems-First Builder**
+## Current Projects
 
+- [Cellular-Automata-Engine](https://github.com/VenkatRaman3103/Cellular-Automata-Engine) - Engine for simulating cellular automata and emergent behavior
+- [Multimodal-AI-Modal](https://github.com/VenkatRaman3103/Multimodal-AI-Modal) - Multimodal sentiment analysis system  
+- [Omnimux](https://github.com/VenkatRaman3103/Omnimux) - TMUX Session manager featuring bookmarks, session editors, and floating terminals.
+- [fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) - Neovim plugin for persistent, project-based file navigation.
+- [slime-enhanced.nvim](https://github.com/VenkatRaman3103/slime-enhanced.nvim) - Neovim plugin for REPL and tmux integration, and code cell execution.
+- [Craft](https://github.com/VenkatRaman3103/Craft) - No-code website builder with CMS, API client, and database client  
+- [Data-Structures-and-Algorithms](https://github.com/VenkatRaman3103/Data-Structures-and-Algorithms) - Consistent DSA practice
+
+
+## What I’m Exploring
+
+- Lenia and artificial life systems  
+- Artificial Intelligence beyond API usage  
+- Building systems from scratch to understand internals  
+- Performance engineering and memory-aware programming  
+
+## Always Training
+
+- Data Structures and Algorithms  
+- System Design  
+- Design Patterns and Software Architecture  
+- Complexity analysis and problem decomposition  
+
+> Software changes. Fundamentals don’t.
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/VenkatRaman3103)
+
+## Technologies
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -12,79 +47,15 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-
-> Building clean systems. Practicing fundamentals. Shipping consistently.
-
----
-
-## 🚀 Current Projects
-
-- 🔧 **[ProjectOne](https://github.com/VenkatRaman3103/PROJECT_LINK)** – Short one-line description  
-- ⚙️ **[ProjectTwo](https://github.com/VenkatRaman3103/PROJECT_LINK)** – What it solves in one sentence  
-- 📊 **[ProjectThree](https://github.com/VenkatRaman3103/PROJECT_LINK)** – Backend-heavy? infra? mention it  
-- 🧠 **[DSA Practice Repo](https://github.com/VenkatRaman3103/PROJECT_LINK)** – Graphs, DP, Union-Find, daily grind  
-- 🛠️ **[CLI Tool](https://github.com/VenkatRaman3103/PROJECT_LINK)** – Utility built to scratch my own itch  
-
-*(Replace these with your real repos — keep descriptions sharp and short.)*
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
 ---
 
-## 🧩 Things I Like Building
+## Connect
 
-- Multi-tenant backend systems  
-- Schema-driven architectures  
-- Clean REST APIs  
-- Algorithm-heavy utilities  
-- Developer tools  
-
----
-
-## 📈 What I’m Currently Focused On
-
-- Advanced graph algorithms  
-- Distributed systems fundamentals  
-- Performance optimization  
-- Writing production-grade TypeScript  
-
----
-
-## 🗂 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/VenkatRaman3103)
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Venkat_Raman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINK)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](YOUR_LINK)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VenkatRaman3103)
-
----
-
-### Philosophy
-
-> Break the problem down.  
-> Make it correct.  
-> Then make it scale.
-
-<details>
-<summary>Random Facts</summary>
-
-- Think in graphs.
-- Prefer clarity over cleverness.
-- Debugging > guessing.
-- Gym when not coding.
-
-</details>
-
-
-
-###
-
-![hello-world-4k-0o3123](https://github.com/VenkatRaman3103/VenkatRaman3103/assets/145652521/cc7edc9f-f7e3-4418-9b33-eaf3a273ae9f)
--->
-
-
+[LinkedIn](YOUR_LINK)  
+[LeetCode](YOUR_LINK)  
+[GitHub](https://github.com/VenkatRaman3103)
