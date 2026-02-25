@@ -2,21 +2,19 @@
 
 📍 Chennai, India  |  💻 Software Engineer
 
-> Building clean systems. Practicing fundamentals.
-
-## Selected Projects
+### Selected Projects
 
 - [Cellular-Automata-Engine](https://github.com/VenkatRaman3103/Cellular-Automata-Engine) - Engine for simulating cellular automata and emergent behavior
 - [Multimodal-AI-Modal](https://github.com/VenkatRaman3103/Multimodal-AI-Modal) - Multimodal sentiment analysis system
 - [Craft](https://github.com/VenkatRaman3103/Craft) - No-code website builder with CMS, API client, and database client
 
-## Plugins
+### Plugins
 
 - [Omnimux](https://github.com/VenkatRaman3103/Omnimux) - TMUX Session manager featuring bookmarks, session editors, and floating terminals.
 - [fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) - Neovim plugin for persistent, project-based file navigation.
 - [slime-enhanced.nvim](https://github.com/VenkatRaman3103/slime-enhanced.nvim) - Neovim plugin for REPL and tmux integration, and code cell execution.
 
-## Fundamentals
+### Fundamentals
 
 > Software changes. Fundamentals don’t.
 
@@ -39,6 +37,7 @@
 - Complexity analysis and problem decomposition  
 
 > Software changes. Fundamentals don’t.
+> Building clean systems. Practicing fundamentals.
   -->
   
 ## Technologies
