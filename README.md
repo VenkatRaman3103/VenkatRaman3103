@@ -1,5 +1,5 @@
-### Hi, I'm Venkat Raman
-Software Engineer based in Chennai, India
+## Hi, I'm Venkat Raman
+Sofware Engineer based in Chennai, India  |  [(venkatraman.in)](https://venkatraman.in/)
 
 ### Selected Projects
 
@@ -18,10 +18,12 @@ Software Engineer based in Chennai, India
 
 ### Fundamentals
 
-> Software changes. Fundamentals don’t.
-
 - [Data-Structures-and-Algorithms](https://github.com/VenkatRaman3103/Data-Structures-and-Algorithms) - Consistent DSA practice
 
+### Connect
+
+- [LeetCode](https://leetcode.com/u/venkatraman-dev/)
+- [LinkedIn](www.linkedin.com/in/venkatraman-dev)
 
 <!--   
 ## What I’m Exploring
@@ -40,8 +42,9 @@ Software Engineer based in Chennai, India
 
 > Software changes. Fundamentals don’t.
 > Building clean systems. Practicing fundamentals.
+> Software changes. Fundamentals don’t.
   -->
-  
+  <!--   
 ### Technologies
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -57,10 +60,12 @@ Software Engineer based in Chennai, India
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-
+ -->
+   <!--  
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Venkat_Raman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINK) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](YOUR_LINK) [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VenkatRaman3103)
+ -->
 
 <!--   
   [LinkedIn](YOUR_LINK) · [LeetCode](YOUR_LINK) · [GitHub](https://github.com/VenkatRaman3103)
