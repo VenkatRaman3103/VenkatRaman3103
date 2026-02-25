@@ -4,17 +4,26 @@
 
 > Building clean systems. Practicing fundamentals.
 
-## Current Projects
+## Selected Projects
 
 - [Cellular-Automata-Engine](https://github.com/VenkatRaman3103/Cellular-Automata-Engine) - Engine for simulating cellular automata and emergent behavior
-- [Multimodal-AI-Modal](https://github.com/VenkatRaman3103/Multimodal-AI-Modal) - Multimodal sentiment analysis system  
+- [Multimodal-AI-Modal](https://github.com/VenkatRaman3103/Multimodal-AI-Modal) - Multimodal sentiment analysis system
+- [Craft](https://github.com/VenkatRaman3103/Craft) - No-code website builder with CMS, API client, and database client
+
+## Plugins
+
 - [Omnimux](https://github.com/VenkatRaman3103/Omnimux) - TMUX Session manager featuring bookmarks, session editors, and floating terminals.
 - [fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) - Neovim plugin for persistent, project-based file navigation.
 - [slime-enhanced.nvim](https://github.com/VenkatRaman3103/slime-enhanced.nvim) - Neovim plugin for REPL and tmux integration, and code cell execution.
-- [Craft](https://github.com/VenkatRaman3103/Craft) - No-code website builder with CMS, API client, and database client  
+
+## Fundamentals
+
+> Software changes. Fundamentals don’t.
+
 - [Data-Structures-and-Algorithms](https://github.com/VenkatRaman3103/Data-Structures-and-Algorithms) - Consistent DSA practice
 
 
+<!--   
 ## What I’m Exploring
 
 - Lenia and artificial life systems  
@@ -30,7 +39,8 @@
 - Complexity analysis and problem decomposition  
 
 > Software changes. Fundamentals don’t.
-
+  -->
+  
 ## Technologies
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -41,7 +51,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
@@ -57,4 +66,5 @@
   ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/VenkatRaman3103)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   -->
