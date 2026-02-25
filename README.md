@@ -1,4 +1,4 @@
-### Hi, I'm Venkat
+### Hi, I'm Venkat Raman
 Software Engineer based in Chennai, India
 
 ### Selected Projects
@@ -6,6 +6,9 @@ Software Engineer based in Chennai, India
 - [Cellular-Automata-Engine](https://github.com/VenkatRaman3103/Cellular-Automata-Engine) - Engine for simulating cellular automata and emergent behavior
 - [Multimodal-AI-Modal](https://github.com/VenkatRaman3103/Multimodal-AI-Modal) - Multimodal sentiment analysis system
 - [Craft](https://github.com/VenkatRaman3103/Craft) - No-code website builder with CMS, API client, and database client
+
+### Systems from scratch
+- [Systems-From-Scratch](https://github.com/VenkatRaman3103/Systems-From-Scratch) - Building core systems from scratch to deepen my understanding
 
 ### Plugins
 
