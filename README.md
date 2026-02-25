@@ -1,5 +1,8 @@
-## Hi, I'm Venkat Raman
-Sofware Engineer based in Chennai, India  |  [(venkatraman.in)](https://venkatraman.in/)
+### Hi, I'm Venkat Raman
+
+Sofware Engineer based in Chennai, India
+
+Portfolio: [venkatraman.in](https://venkatraman.in/)
 
 ### Selected Projects
 
@@ -23,7 +26,7 @@ Sofware Engineer based in Chennai, India  |  [(venkatraman.in)](https://venkatra
 ### Connect
 
 - [LeetCode](https://leetcode.com/u/venkatraman-dev/)
-- [LinkedIn](www.linkedin.com/in/venkatraman-dev)
+- [LinkedIn](https://www.linkedin.com/in/venkatraman-dev/)
 
 <!--   
 ## What I’m Exploring
