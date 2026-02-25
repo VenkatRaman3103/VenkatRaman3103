@@ -1,8 +1,8 @@
 # Hi, I'm Venkat Raman
 
 Sofware Engineer based in Chennai, India
-
-Portfolio: [venkatraman.in](https://venkatraman.in/)
+</br>
+[venkatraman.in](https://venkatraman.in/)
 
 
 ### Selected Projects
