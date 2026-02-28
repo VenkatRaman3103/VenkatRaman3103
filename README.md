@@ -10,13 +10,16 @@ Software Engineer based in Chennai, India
   - [Craft](https://github.com/VenkatRaman3103/Craft) - No-code website builder with CMS, API client, and database client
 
 ### Systems from Scratch
-  - [Systems-From-Scratch](https://github.com/VenkatRaman3103/Systems-From-Scratch) - Building core systems from scratch to deepen my understanding of how software works
-      - Database Engine: Page-based storage, B+ Tree indexing, WAL, and SQL parser
-      - Compiler: Lexer and recursive-descent parser (AST) with scoped runtime evaluation engine
-      - React & Redux: Reconciler with diffing, fiber scheduler, hooks runtime, and Redux middleware chain
-      - Redis: Event-driven TCP server (epoll) with key-value storage, Pub/Sub, and persistence
-      - Virtual Machine: Fetch-decode-execute cycle, register simulation and interrupt handling
-      - Memory Allocator & Garbage Collector: Free lists heap with splitting, coalescing and mark-sweep GC
+  - [Systems-From-Scratch](https://github.com/VenkatRaman3103/Systems-From-Scratch) - Building core systems from scratch to deepen my understanding of how software works internally
+      - [Database Engine:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Database) Page-based storage engine with B+ Tree indexing, Write-Ahead Logging (WAL), and a SQL parser
+      - [Compiler:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Compiler) Lexer, recursive-descent parser (AST), and scoped runtime evaluation engine
+      - [Interpreter:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Interpreter) AST parser with a scoped execution model
+      - [Virtual Machine:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Virtual-Machine) Fetch-decode-execute cycle with register simulation and interrupt handling
+      - [Memory Allocator & Garbage Collector:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Malloc) Free-list heap allocator with block splitting, coalescing, and mark-and-sweep GC
+      - [Redis:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Redis) Event-driven TCP server (epoll) with key-value storage, Pub/Sub, and persistence
+      - [React:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/React) Reconciler with diffing algorithm, Fiber scheduler, and Hooks runtime
+      - [Redux:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Redux) Store implementation with reducer pipeline, middleware chain, and subscription model
+      - [Git:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Git) Blob/tree objects, content-addressable storage, and commit graph
         
 ### Writing
   - [venkatraman.in/writing](https://venkatraman.in/writing)
