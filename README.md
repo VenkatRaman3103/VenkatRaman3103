@@ -4,7 +4,7 @@ Software Engineer based in Chennai, India
 [venkatraman.in](https://venkatraman.in/)
 <br></br>
 
-**Selected Projects**
+### **Selected Projects**
   - [Operating-System](https://github.com/VenkatRaman3103/Operating-System) - 32-bit x86 OS kernel built in C and assembly, from bootloader to system calls
   - [Cellular-Automata-Engine](https://github.com/VenkatRaman3103/Cellular-Automata-Engine) - Lenia simulation with FFT-accelerated convolution and interactive parameter explorer
   - [Multimodal-AI-Model](https://github.com/VenkatRaman3103/Multimodal-AI-Modal) - Multimodal sentiment analysis system
