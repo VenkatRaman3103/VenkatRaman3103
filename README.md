@@ -3,8 +3,7 @@
 Software Engineer · Chennai, India · [venkatraman.in](https://venkatraman.in/)
 
 > Every door I open reveals a hundred more. I can't stop — that's the point
-
-<br></br>
+</br>
 
 ### Selected Projects
   - [Operating-System](https://github.com/VenkatRaman3103/Operating-System) - 32-bit x86 OS kernel built in C and assembly, from bootloader to system calls
