@@ -1,8 +1,9 @@
 
 ## Venkat Raman
 Software Engineer · Chennai, India · [venkatraman.in](https://venkatraman.in/)
-
+</br>
 > Every door I open reveals a hundred more. I can't stop — that's the point
+
 </br>
 
 ### Selected Projects
@@ -14,15 +15,15 @@ Software Engineer · Chennai, India · [venkatraman.in](https://venkatraman.in/)
 
 ### Systems from Scratch
   - [Systems-From-Scratch](https://github.com/VenkatRaman3103/Systems-From-Scratch) - Building core systems from scratch to deepen my understanding of how software works internally
-      - [Database Engine:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Database) Page-based storage engine with B+ Tree indexing, Write-Ahead Logging (WAL), and a SQL parser
-      - [Compiler:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Compiler) Lexer, recursive-descent parser (AST), and scoped runtime evaluation engine
-      - [Interpreter:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Interpreter) AST parser with a scoped execution model
-      - [Virtual Machine:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Virtual-Machine) Fetch-decode-execute cycle with register simulation and interrupt handling
-      - [Memory Allocator & Garbage Collector:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Malloc) Free-list heap allocator with block splitting, coalescing, and mark-and-sweep GC
-      - [Redis:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Redis) Event-driven TCP server (epoll) with key-value storage, Pub/Sub, and persistence
-      - [React:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/React) Reconciler with diffing algorithm, Fiber scheduler, and Hooks runtime
-      - [Redux:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Redux) Store implementation with reducer pipeline, middleware chain, and subscription model
-      - [Git:](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Git) Blob/tree objects, content-addressable storage, and commit graph
+      - [Database Engine](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Database) - Page-based storage engine with B+ Tree indexing, Write-Ahead Logging (WAL), and a SQL parser
+      - [Compiler](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Compiler) - Lexer, recursive-descent parser (AST), and scoped runtime evaluation engine
+      - [Interpreter](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Interpreter) - AST parser with a scoped execution model
+      - [Virtual Machine](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Virtual-Machine) - Fetch-decode-execute cycle with register simulation and interrupt handling
+      - [Memory Allocator & Garbage Collector](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Malloc) - Free-list heap allocator with block splitting, coalescing, and mark-and-sweep GC
+      - [Redis](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Redis) - Event-driven TCP server (epoll) with key-value storage, Pub/Sub, and persistence
+      - [React](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/React) - Reconciler with diffing algorithm, Fiber scheduler, and Hooks runtime
+      - [Redux](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Redux) - Store implementation with reducer pipeline, middleware chain, and subscription model
+      - [Git](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Git) - Blob/tree objects, content-addressable storage, and commit graph
 <br></br>
         
 ### Writing
