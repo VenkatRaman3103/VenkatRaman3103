@@ -13,7 +13,7 @@ Software Engineer · Chennai, India
 <br></br>
 
 ### Systems from Scratch
-  - [Systems-From-Scratch](https://github.com/VenkatRaman3103/Systems-From-Scratch) - Building core systems from scratch to deepen my understanding of how software works internally
+  - [Systems-From-Scratch](https://github.com/VenkatRaman3103/Systems-From-Scratch) - Building core systems from scratch to deepen my understanding
       - [Database Engine](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Database) - Page-based storage engine with B+ Tree indexing, Write-Ahead Logging (WAL), and a SQL parser
       - [Compiler](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Compiler) - Lexer, recursive-descent parser (AST), and scoped runtime evaluation engine
       - [Interpreter](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Interpreter) - AST parser with a scoped execution model
