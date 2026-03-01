@@ -1,9 +1,8 @@
 
-## Hi, I'm Venkat Raman
-Software Engineer based in Chennai, India
-</br>
-[venkatraman.in](https://venkatraman.in/)
-<br></br>
+## Venkat Raman
+Software Engineer · Chennai, India · [venkatraman.in](https://venkatraman.in/)
+
+> 🙶 Every door I open reveals a hundred more. I can't stop — that's the point 🙸
 
 ### Selected Projects
   - [Operating-System](https://github.com/VenkatRaman3103/Operating-System) - 32-bit x86 OS kernel built in C and assembly, from bootloader to system calls
@@ -38,7 +37,6 @@ Software Engineer based in Chennai, India
   - [Omnimux](https://github.com/VenkatRaman3103/Omnimux) - TMUX session manager built to eliminate context-switching overhead
   - [fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) - Neovim plugin for persistent, project-based file navigation
   - [slime-enhanced.nvim](https://github.com/VenkatRaman3103/slime-enhanced.nvim) - Neovim plugin for REPL and tmux integration with code cell execution
-<br></br>
 
 ### Fundamentals
   - [Data-Structures-and-Algorithms](https://github.com/VenkatRaman3103/Data-Structures-and-Algorithms) - Consistent DSA practice to sharpen problem solving
