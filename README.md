@@ -38,6 +38,7 @@ Software Engineer · Chennai, India
   - [Omnimux](https://github.com/VenkatRaman3103/Omnimux) - TMUX session manager built to eliminate context-switching overhead
   - [fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) - Neovim plugin for persistent, project-based file navigation
   - [slime-enhanced.nvim](https://github.com/VenkatRaman3103/slime-enhanced.nvim) - Neovim plugin for REPL and tmux integration with code cell execution
+<br></br>
 
 ### Fundamentals
   - [Data-Structures-and-Algorithms](https://github.com/VenkatRaman3103/Data-Structures-and-Algorithms) - Consistent DSA practice to sharpen problem solving
