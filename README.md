@@ -2,8 +2,6 @@
 ## Venkat Raman
 Software Engineer · Chennai, India
 </br>
-> Every door I open reveals a hundred more. I can't stop — that's the point
-
 [venkatraman.in](https://venkatraman.in/)
 <br></br>
 
