@@ -24,7 +24,8 @@ Software Engineer · Chennai, India
       - [Redux](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Redux) - Store implementation with reducer pipeline, middleware chain, and subscription model
       - [Git](https://github.com/VenkatRaman3103/Systems-From-Scratch/tree/main/Git) - Blob/tree objects, content-addressable storage, and commit graph
 <br></br>
-        
+
+<!--
 ### Writing
   - [Data Structures and Algorithms](https://venkatraman.in/writing/data-structures-and-algorithms)
   - [System Design](https://venkatraman.in/writing/system-design)
@@ -33,6 +34,7 @@ Software Engineer · Chennai, India
   - [Functional Programming](https://venkatraman.in/writing/functional-programming)
   - [Object Oriented Programming](https://venkatraman.in/writing/object-oriented-programming)
 <br></br>
+-->
 
 ### Plugins
   - [Omnimux](https://github.com/VenkatRaman3103/Omnimux) - TMUX session manager built to eliminate context-switching overhead
