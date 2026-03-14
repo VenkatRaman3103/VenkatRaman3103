@@ -6,6 +6,7 @@ Software Engineer · Chennai, India
 <br></br>
 
 ### Selected Projects
+  - [Reactivity-Engine](https://github.com/VenkatRaman3103/Reactivity-Engine) - a JSX compiler enabling file-scoped state and O(1) DOM updates without a virtual DOM.
   - [Operating-System](https://github.com/VenkatRaman3103/Operating-System) - 32-bit x86 OS kernel built in C and assembly, from bootloader to system calls
   - [Cellular-Automata-Engine](https://github.com/VenkatRaman3103/Cellular-Automata-Engine) - Lenia simulation with FFT-accelerated convolution and interactive parameter explorer
   - [Multimodal-AI-Model](https://github.com/VenkatRaman3103/Multimodal-AI-Modal) - Multimodal sentiment analysis system
